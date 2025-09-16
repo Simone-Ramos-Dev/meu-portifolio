@@ -1,7 +1,7 @@
 # 🌸 Meu Portfólio em Flask
 
 Bem-vindo(a) ao meu portfólio! 🚀  
-Este projeto foi desenvolvido em **Python (Flask)**, com design moderno, e está hospedado gratuitamente no **Vercel**.  
+Este projeto foi desenvolvido em **Python (Flask)**, com design moderno, está hospedado gratuitamente no **Vercel**.  
 
 ## ✨ Tecnologias Utilizadas
 - Python 3  
@@ -22,4 +22,5 @@ Exemplo da interface:
 ---
 
 ## 📂 Estrutura do Projeto
+
 
