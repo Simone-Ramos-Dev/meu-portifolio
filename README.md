@@ -22,5 +22,14 @@ Exemplo da interface:
 ---
 
 ## 📂 Estrutura do Projeto
+meu-portfolio/
+│── app.py # Arquivo principal Flask
+│── requirements.txt # Dependências do projeto
+│── vercel.json # Configuração do deploy na Vercel
+│── static/
+│ └── style.css # Estilos customizados
+│── templates/
+│ └── index.html # Página inicial
+│ └── projetos.html # Página de projetos
 
 
